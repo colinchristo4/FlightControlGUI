@@ -22,6 +22,8 @@ namespace UdpTestWinForm
         private UdpClient exitClient = null;
         private int i = 0;
 
+        // hi this is a comment
+
         public Form1()
         {
             InitializeComponent();
