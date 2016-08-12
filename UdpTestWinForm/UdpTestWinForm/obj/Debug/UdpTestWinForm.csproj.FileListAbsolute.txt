@@ -1,0 +1,9 @@
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\bin\Debug\UdpTestWinForm.exe.config
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\bin\Debug\UdpTestWinForm.exe
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\bin\Debug\UdpTestWinForm.pdb
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\obj\Debug\UdpTestWinForm.csprojResolveAssemblyReference.cache
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\obj\Debug\UdpTestWinForm.Form1.resources
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\obj\Debug\UdpTestWinForm.Properties.Resources.resources
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\obj\Debug\UdpTestWinForm.csproj.GenerateResource.Cache
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\obj\Debug\UdpTestWinForm.exe
+C:\Users\colin_000\Documents\Programming Stuff\UdpTestWinForm\UdpTestWinForm\obj\Debug\UdpTestWinForm.pdb
